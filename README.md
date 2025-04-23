@@ -10,7 +10,9 @@ Los datos utilizados son propuestos por la compañía en cuestión mediante el p
 --- Data 
    --- Retail_store_sales.csv
 --- Excels 
---- Gitattributtes 
+   --- Analisis de datos y Dashboard_Retail Store Sales
+--- Informe
+   --- Informe explicativo del análisis_Retail Store Sales
 --- Readme 
 
 ``` 
@@ -35,7 +37,8 @@ Se muestra a su vez que los ingresos obtenidos por la venta de productos sin des
 
 Respecto a los productos, es claro que existen dos que dan más ingresos que el resto, pasando la cota de los 200.000€, siendo por tanto los productos más rentables. Estos son: en primer lugar, los cárnicos y en segundo lugar los eléctricos del hogar.
 
-Por último, se aprecia que la evolución en el tiempo de ventas e ingresos se mantiene muy pareja entre los años 2022 y 2024, con una fluctuación monetaria de tan solo 33.569€ entre el peor registro (año 2023) y el mejor registro (año 2024).
+Por último, se aprecia que la evolución en el tiempo de ventas e ingresos se mantiene muy pareja entre los años 2022 y 2024, con una fluctuación monetaria de tan solo 33.569€ entre el peor registro (año 2023) y el mejor registro (año 2024). Pero con la tendencia final de crecimiento entra el año inicial (2022) y el año más reciente a la actualidad (con datos completos = 2024) de un incremento por 2,5% para las ventas y 2,77% para los beneficios.
+
 ## 7.	*Recomendaciones y Próximos Pasos:*
 Se podría hacer un análisis aún más exhaustivo y profundo utilizando el predictivo y metiendo más datos históricos. Por ejemplo, se podría profundizar en los siguientes puntos clave en vista de los resultados obtenidos:
 -	Al estar tan parejos los canales de venta utilizados, sería interesante explorar más a fondo que factores impulsan de forma ligera el canal online mediante campañas de marketing y potenciarlo para que las ventas sean más rentables aún.
